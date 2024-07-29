@@ -13,9 +13,9 @@ Vamos agora a instalação das duas bibliotecas, para isso basta escrever:
 pip install opencv-python 
 ```
 e 
-
+```
 pip install pytesseract.
-
+```
 ## Atenção
 
 Pode ser que você tenha problemas ao tentar rodar a aplicação após instalar o Tesseract, para corrigir isso, basta seguir o passo a passo do link abaixo: &nbsp;
